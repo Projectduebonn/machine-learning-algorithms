@@ -1,0 +1,3 @@
+([('WebAI',
+   '/Users/xiaoweiqiu/Documents/GitHub/machine-learning-algorithms-1/dist/WebAI',
+   'EXECUTABLE')],)
